@@ -1,0 +1,9 @@
+[submodule "telemetry-client"]
+	path = telemetry-client
+	url = https://github.com/pncln/telemetry-client
+[submodule "telemetry-mobile"]
+	path = telemetry-mobile
+	url = https://github.com/pncln/telemetry-mobile
+[submodule "telemetry-srv"]
+	path = telemetry-srv
+	url = https://github.com/pncln/telemetry-srv
