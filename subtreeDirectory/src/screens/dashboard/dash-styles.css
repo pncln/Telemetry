@@ -1,0 +1,8 @@
+.dash-content {
+    display: flex;
+    flex-direction: row;
+}
+
+.dash {
+    width: 100%;
+}
