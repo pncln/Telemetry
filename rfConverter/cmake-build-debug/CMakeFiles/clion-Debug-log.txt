@@ -1,0 +1,19 @@
+/Applications/CLion.app/Contents/bin/cmake/mac/aarch64/bin/cmake -DCMAKE_BUILD_TYPE=Debug -DCMAKE_MAKE_PROGRAM=/Applications/CLion.app/Contents/bin/ninja/mac/aarch64/ninja -G Ninja -DPython_EXECUTABLE=/Users/pncln/Documents/Code/Projects/Telemetry/rfConverter/venv/bin/python -DPython3_EXECUTABLE=/Users/pncln/Documents/Code/Projects/Telemetry/rfConverter/venv/bin/python -S /Users/pncln/Documents/Code/Projects/Telemetry/rfConverter -B /Users/pncln/Documents/Code/Projects/Telemetry/rfConverter/cmake-build-debug
+CMake Error at CMakeLists.txt:10 (find_package):
+  By not providing "FindPythonLibs.cmake" in CMAKE_MODULE_PATH this project
+  has asked CMake to find a package configuration file provided by
+  "PythonLibs", but CMake did not find one.
+
+  Could not find a package configuration file provided by "PythonLibs" with
+  any of the following names:
+
+    PythonLibsConfig.cmake
+    pythonlibs-config.cmake
+
+  Add the installation prefix of "PythonLibs" to CMAKE_PREFIX_PATH or set
+  "PythonLibs_DIR" to a directory containing one of the above files.  If
+  "PythonLibs" provides a separate development package or SDK, be sure it has
+  been installed.
+
+
+-- Configuring incomplete, errors occurred!

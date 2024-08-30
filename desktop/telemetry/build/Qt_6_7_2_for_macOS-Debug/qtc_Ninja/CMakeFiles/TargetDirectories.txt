@@ -1,0 +1,9 @@
+/Users/pncln/Documents/Code/Projects/Telemetry/desktop/telemetry/build/Qt_6_7_2_for_macOS-Debug/qtc_Ninja/CMakeFiles/telemetry.dir
+/Users/pncln/Documents/Code/Projects/Telemetry/desktop/telemetry/build/Qt_6_7_2_for_macOS-Debug/qtc_Ninja/CMakeFiles/edit_cache.dir
+/Users/pncln/Documents/Code/Projects/Telemetry/desktop/telemetry/build/Qt_6_7_2_for_macOS-Debug/qtc_Ninja/CMakeFiles/rebuild_cache.dir
+/Users/pncln/Documents/Code/Projects/Telemetry/desktop/telemetry/build/Qt_6_7_2_for_macOS-Debug/qtc_Ninja/CMakeFiles/list_install_components.dir
+/Users/pncln/Documents/Code/Projects/Telemetry/desktop/telemetry/build/Qt_6_7_2_for_macOS-Debug/qtc_Ninja/CMakeFiles/install.dir
+/Users/pncln/Documents/Code/Projects/Telemetry/desktop/telemetry/build/Qt_6_7_2_for_macOS-Debug/qtc_Ninja/CMakeFiles/install/local.dir
+/Users/pncln/Documents/Code/Projects/Telemetry/desktop/telemetry/build/Qt_6_7_2_for_macOS-Debug/qtc_Ninja/CMakeFiles/install/strip.dir
+/Users/pncln/Documents/Code/Projects/Telemetry/desktop/telemetry/build/Qt_6_7_2_for_macOS-Debug/qtc_Ninja/CMakeFiles/telemetry_autogen_timestamp_deps.dir
+/Users/pncln/Documents/Code/Projects/Telemetry/desktop/telemetry/build/Qt_6_7_2_for_macOS-Debug/qtc_Ninja/CMakeFiles/telemetry_autogen.dir

@@ -1,0 +1,3 @@
+/Users/pncln/Documents/Code/Projects/Telemetry/rfConverter/cmake-build-debug/CMakeFiles/rfConverter.dir
+/Users/pncln/Documents/Code/Projects/Telemetry/rfConverter/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/pncln/Documents/Code/Projects/Telemetry/rfConverter/cmake-build-debug/CMakeFiles/rebuild_cache.dir
