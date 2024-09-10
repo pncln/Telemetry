@@ -6,6 +6,7 @@ telemetry_autogen/timestamp: \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/AvailabilityVersions.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/TargetConditionals.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_ctermid.h \
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_ctype.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_stdio.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/_types/_intmax_t.h \
@@ -24,6 +25,8 @@ telemetry_autogen/timestamp: \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/signal.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/arm/types.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/assert.h \
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/ctype.h \
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/inttypes.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/_OSByteOrder.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/libkern/arm/OSByteOrder.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/limits.h \
@@ -38,6 +41,7 @@ telemetry_autogen/timestamp: \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_malloc_type.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/malloc/_ptrcheck.h \
+	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/runetype.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stddef.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdint.h \
 	/Applications/Xcode.app/Contents/Developer/Platforms/MacOSX.platform/Developer/SDKs/MacOSX.sdk/usr/include/stdio.h \
@@ -98,84 +102,298 @@ telemetry_autogen/timestamp: \
 	/Users/pncln/Documents/Code/Projects/Telemetry/desktop/telemetry/main.cpp \
 	/Users/pncln/Documents/Code/Projects/Telemetry/desktop/telemetry/mainwindow.cpp \
 	/Users/pncln/Documents/Code/Projects/Telemetry/desktop/telemetry/mainwindow.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QAbstractAxis \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QAbstractBarSeries \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QAbstractSeries \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QAreaSeries \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QBarModelMapper \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QBarSet \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QBoxPlotModelMapper \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QBoxPlotSeries \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QBoxSet \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QCandlestickModelMapper \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QCandlestickSeries \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QChart \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QChartGlobal \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QChartView \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QLegend \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QLegendMarker \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QPieModelMapper \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QPieSeries \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QPieSlice \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QValueAxis \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QXYModelMapper \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QXYSeries \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QtCharts \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/QtChartsDepends \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qabstractaxis.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qabstractbarseries.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qabstractseries.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qarealegendmarker.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qareaseries.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qbarcategoryaxis.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qbarlegendmarker.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qbarmodelmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qbarseries.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qbarset.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qboxplotlegendmarker.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qboxplotmodelmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qboxplotseries.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qboxset.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qcandlesticklegendmarker.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qcandlestickmodelmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qcandlestickseries.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qcandlestickset.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qcategoryaxis.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qchart.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qchartglobal.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qchartview.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qcoloraxis.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qdatetimeaxis.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qhbarmodelmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qhboxplotmodelmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qhcandlestickmodelmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qhorizontalbarseries.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qhorizontalpercentbarseries.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qhorizontalstackedbarseries.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qhpiemodelmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qhxymodelmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qlegend.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qlegendmarker.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qlineseries.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qlogvalueaxis.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qpercentbarseries.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qpielegendmarker.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qpiemodelmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qpieseries.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qpieslice.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qpolarchart.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qscatterseries.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qsplineseries.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qstackedbarseries.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qtcharts-config.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qtchartsexports.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qtchartsversion.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qvalueaxis.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qvbarmodelmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qvboxplotmodelmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qvcandlestickmodelmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qvpiemodelmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qvxymodelmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qxylegendmarker.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qxymodelmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCharts.framework/Versions/A/Headers/qxyseries.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QDeadlineTimer \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QEvent \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QHash \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QList \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QMap \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QMargins \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QMetaType \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QMutex \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QObject \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QPair \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QPointF \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QProcess \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QRect \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QScopedPointer \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QSharedDataPointer \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QSize \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QSizeF \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QString \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QStringList \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QVariant \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QtCore \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/QtCoreDepends \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/q20algorithm.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/q20chrono.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/q20functional.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/q20iterator.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/q20map.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/q20memory.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/q20type_traits.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/q20vector.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/q23functional.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/q23utility.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qabstractanimation.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qabstracteventdispatcher.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qabstractitemmodel.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qabstractnativeeventfilter.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qabstractproxymodel.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qalgorithms.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qanimationgroup.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qanystringview.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qapplicationstatic.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qarraydata.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qarraydataops.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qarraydatapointer.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qassert.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qassociativeiterable.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qatomic.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qatomic_cxx11.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qatomicscopedvaluerollback.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qbasicatomic.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qbasictimer.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qbindingstorage.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qbitarray.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qbuffer.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qbytearray.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qbytearrayalgorithms.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qbytearraylist.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qbytearraymatcher.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qbytearrayview.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcache.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcalendar.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcborarray.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcborcommon.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcbormap.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcborstream.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcborstreamreader.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcborstreamwriter.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcborvalue.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qchar.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcollator.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcommandlineoption.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcommandlineparser.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcompare.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcompare_impl.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcomparehelpers.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcompilerdetection.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qconcatenatetablesproxymodel.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qconfig.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qconstructormacros.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcontainerfwd.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcontainerinfo.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcontainertools_impl.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcontiguouscache.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcoreapplication.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcoreapplication_platform.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcoreevent.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qcryptographichash.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qdarwinhelpers.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qdatastream.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qdatetime.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qdeadlinetimer.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qdebug.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qdir.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qdiriterator.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qeasingcurve.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qelapsedtimer.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qendian.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qeventloop.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qexception.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qexceptionhandling.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qfactoryinterface.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qfile.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qfiledevice.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qfileinfo.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qfileselector.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qfilesystemwatcher.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qflags.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qfloat16.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qforeach.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qfunctionaltools_impl.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qfunctionpointer.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qfuture.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qfuture_impl.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qfutureinterface.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qfuturesynchronizer.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qfuturewatcher.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qgenericatomic.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qglobal.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qglobalstatic.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qhash.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qhashfunctions.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qidentityproxymodel.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qiodevice.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qiodevicebase.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qitemselectionmodel.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qiterable.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qiterator.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qjsonarray.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qjsondocument.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qjsonobject.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qjsonvalue.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qlatin1stringmatcher.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qlatin1stringview.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qlibrary.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qlibraryinfo.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qline.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qlist.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qlocale.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qlockfile.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qlogging.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qloggingcategory.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qmalloc.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qmap.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qmargins.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qmath.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qmessageauthenticationcode.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qmetacontainer.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qmetaobject.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qmetatype.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qmimedata.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qmimedatabase.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qmimetype.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qminmax.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qmutex.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qnamespace.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qnativeinterface.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qnumeric.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qobject.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qobject_impl.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qobjectcleanuphandler.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qobjectdefs.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qobjectdefs_impl.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qoperatingsystemversion.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qoverload.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qpair.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qparallelanimationgroup.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qpauseanimation.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qpermissions.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qplugin.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qpluginloader.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qpoint.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qpointer.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qprocess.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qprocessordetection.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qpromise.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qproperty.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qpropertyanimation.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qpropertyprivate.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qqueue.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qrandom.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qreadwritelock.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qrect.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qrefcount.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qregularexpression.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qresource.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qresultstore.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qrunnable.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qsavefile.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qscopedpointer.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qscopedvaluerollback.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qscopeguard.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qsemaphore.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qsequentialanimationgroup.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qsequentialiterable.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qset.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qsettings.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qshareddata.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qshareddata_impl.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qsharedmemory.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qsharedpointer.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qsharedpointer_impl.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qsignalmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qsimd.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qsize.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qsocketnotifier.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qsortfilterproxymodel.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qspan.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qstack.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qstandardpaths.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qstaticlatin1stringmatcher.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qstorageinfo.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qstring.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qstringalgorithms.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qstringbuilder.h \
@@ -183,6 +401,7 @@ telemetry_autogen/timestamp: \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qstringconverter_base.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qstringfwd.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qstringlist.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qstringlistmodel.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qstringliteral.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qstringmatcher.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qstringtokenizer.h \
@@ -190,63 +409,349 @@ telemetry_autogen/timestamp: \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qswap.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qsysinfo.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qsystemdetection.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qsystemsemaphore.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtaggedpointer.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtclasshelpermacros.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtconfiginclude.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtconfigmacros.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtcore-config.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtcoreexports.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtcoreversion.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtdeprecationmarkers.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtemporarydir.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtemporaryfile.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtenvironmentvariables.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtextboundaryfinder.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtextstream.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qthread.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qthreadpool.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qthreadstorage.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtimeline.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtimer.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtimezone.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtipccommon.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtmetamacros.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtnoop.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtpreprocessorsupport.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtranslator.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtransposeproxymodel.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtresource.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtsan_impl.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtsymbolmacros.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qttranslation.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qttypetraits.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtversion.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtversionchecks.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtypeinfo.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtyperevision.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qtypes.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qurl.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qurlquery.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qutf8stringview.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/quuid.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qvariant.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qvariantanimation.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qvarianthash.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qvariantlist.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qvariantmap.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qvarlengtharray.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qvector.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qversionnumber.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qversiontagging.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qwaitcondition.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qwineventnotifier.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qxmlstream.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qxpfunctional.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qxptype_traits.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtCore.framework/Versions/A/Headers/qyieldcpu.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QAction \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QActionGroup \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QBrush \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QFileSystemModel \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QFont \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QImage \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QMatrix3x3 \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QMatrix4x4 \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QOpenGLContext \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QPaintDevice \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QPaintDeviceWindow \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QPen \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QShortcut \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QSurfaceFormat \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QTransform \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QVector3D \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QWindow \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QtGui \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/QtGuiDepends \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qabstractfileiconprovider.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qabstracttextdocumentlayout.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qaccessible.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qaccessible_base.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qaccessiblebridge.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qaccessibleobject.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qaccessibleplugin.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qaction.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qactiongroup.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qbackingstore.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qbitmap.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qbrush.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qclipboard.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qcolor.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qcolorspace.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qcolortransform.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qcursor.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qdesktopservices.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qdrag.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qevent.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qeventpoint.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qfilesystemmodel.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qfont.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qfontdatabase.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qfontinfo.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qfontmetrics.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qgenericmatrix.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qgenericplugin.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qgenericpluginfactory.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qglyphrun.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qguiapplication.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qguiapplication_platform.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qicon.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qiconengine.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qiconengineplugin.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qimage.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qimageiohandler.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qimagereader.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qimagewriter.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qinputdevice.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qinputmethod.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qkeysequence.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qmatrix4x4.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qmovie.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qoffscreensurface.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qoffscreensurface_platform.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qopengl.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qopenglcontext.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qopenglcontext_platform.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qopenglextrafunctions.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qopenglfunctions.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpagedpaintdevice.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpagelayout.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpageranges.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpagesize.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpaintdevice.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpaintdevicewindow.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpaintengine.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpainter.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpainterpath.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpalette.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpdfwriter.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpen.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpicture.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpixelformat.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpixmap.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpixmapcache.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpointingdevice.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qpolygon.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qquaternion.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qrasterwindow.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qrawfont.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qregion.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qrgb.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qrgba64.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qrgbafloat.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qscreen.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qscreen_platform.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qsessionmanager.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qshortcut.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qstandarditemmodel.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qstatictext.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qstylehints.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qsurface.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qsurfaceformat.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qsyntaxhighlighter.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qtextcursor.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qtextdocument.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qtextdocumentfragment.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qtextdocumentwriter.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qtextformat.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qtextlayout.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qtextlist.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qtextobject.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qtextoption.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qtexttable.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qtgui-config.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qtguiexports.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qtguiglobal.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qtguiversion.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qtransform.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qundogroup.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qundostack.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qutimimeconverter.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qvalidator.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qvector2d.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qvector3d.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qvector4d.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qvectornd.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qwindow.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtGui.framework/Versions/A/Headers/qwindowdefs.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/QtOpenGL \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/QtOpenGLDepends \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qopenglbuffer.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qopengldebug.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qopenglframebufferobject.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qopenglpaintdevice.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qopenglpixeltransferoptions.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qopenglshaderprogram.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qopengltexture.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qopengltextureblitter.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qopengltimerquery.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qopenglversionfunctions.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qopenglversionfunctionsfactory.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qopenglversionprofile.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qopenglvertexarrayobject.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qopenglwindow.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qtopenglexports.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qtopenglglobal.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGL.framework/Versions/A/Headers/qtopenglversion.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGLWidgets.framework/Versions/A/Headers/QtOpenGLWidgets \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGLWidgets.framework/Versions/A/Headers/QtOpenGLWidgetsDepends \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGLWidgets.framework/Versions/A/Headers/qopenglwidget.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGLWidgets.framework/Versions/A/Headers/qtopenglwidgetsexports.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGLWidgets.framework/Versions/A/Headers/qtopenglwidgetsglobal.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtOpenGLWidgets.framework/Versions/A/Headers/qtopenglwidgetsversion.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QCommonStyle \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QGraphicsView \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QGraphicsWidget \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QLayout \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QMainWindow \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QScrollerProperties \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QWidget \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QtWidgets \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/QtWidgetsDepends \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractbutton.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractitemdelegate.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractitemview.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractscrollarea.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractslider.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qabstractspinbox.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qaccessiblewidget.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qaction.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qactiongroup.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qapplication.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qboxlayout.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qbuttongroup.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qcalendarwidget.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qcheckbox.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qcolordialog.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qcolormap.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qcolumnview.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qcombobox.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qcommandlinkbutton.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qcommonstyle.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qcompleter.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qdatawidgetmapper.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qdatetimeedit.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qdial.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qdialog.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qdialogbuttonbox.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qdockwidget.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qdrawutil.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qerrormessage.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qfiledialog.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qfileiconprovider.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qfilesystemmodel.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qfocusframe.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qfontcombobox.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qfontdialog.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qformlayout.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qframe.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgesture.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgesturerecognizer.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgraphicsanchorlayout.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgraphicseffect.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgraphicsgridlayout.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgraphicsitem.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgraphicsitemanimation.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgraphicslayout.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgraphicslayoutitem.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgraphicslinearlayout.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgraphicsproxywidget.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgraphicsscene.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgraphicssceneevent.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgraphicstransform.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgraphicsview.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgraphicswidget.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgridlayout.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qgroupbox.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qheaderview.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qinputdialog.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qitemdelegate.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qitemeditorfactory.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qkeysequenceedit.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlabel.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlayout.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlayoutitem.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlcdnumber.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlineedit.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlistview.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qlistwidget.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qmainwindow.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qmdiarea.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qmdisubwindow.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qmenu.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qmenubar.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qmessagebox.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qplaintextedit.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qprogressbar.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qprogressdialog.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qproxystyle.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qpushbutton.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qradiobutton.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qrhiwidget.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qrubberband.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qscrollarea.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qscrollbar.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qscroller.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qscrollerproperties.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qshortcut.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qsizegrip.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qsizepolicy.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qslider.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qspinbox.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qsplashscreen.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qsplitter.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qstackedlayout.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qstackedwidget.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qstatusbar.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qstyle.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qstyleditemdelegate.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qstylefactory.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qstyleoption.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qstylepainter.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qstyleplugin.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qsystemtrayicon.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtabbar.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtableview.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtablewidget.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtabwidget.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtextbrowser.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtextedit.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtoolbar.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtoolbox.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtoolbutton.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtooltip.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtreeview.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtreewidget.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtreewidgetitemiterator.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgets-config.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsexports.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsglobal.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qtwidgetsversion.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qundoview.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qwhatsthis.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qwidget.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qwidgetaction.h \
+	/Users/pncln/Qt/6.7.2/macos/lib/QtWidgets.framework/Versions/A/Headers/qwizard.h \
 	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6/FindWrapAtomic.cmake \
 	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6/FindWrapOpenGL.cmake \
 	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6/Qt6Config.cmake \
@@ -271,6 +776,14 @@ telemetry_autogen/timestamp: \
 	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6/QtPublicToolHelpers.cmake \
 	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6/QtPublicWalkLibsHelpers.cmake \
 	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6/macos/Info.plist.app.in \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6Charts/Qt6ChartsAdditionalTargetInfo.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6Charts/Qt6ChartsConfig.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6Charts/Qt6ChartsConfigVersion.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6Charts/Qt6ChartsConfigVersionImpl.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6Charts/Qt6ChartsDependencies.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6Charts/Qt6ChartsTargets-relwithdebinfo.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6Charts/Qt6ChartsTargets.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6Charts/Qt6ChartsVersionlessTargets.cmake \
 	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6Core/Qt6CoreAdditionalTargetInfo.cmake \
 	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6Core/Qt6CoreConfig.cmake \
 	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6Core/Qt6CoreConfigExtras.cmake \
@@ -391,6 +904,22 @@ telemetry_autogen/timestamp: \
 	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets-relwithdebinfo.cmake \
 	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsTargets.cmake \
 	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6GuiTools/Qt6GuiToolsVersionlessTargets.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLAdditionalTargetInfo.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLConfig.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLConfigVersion.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLConfigVersionImpl.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLDependencies.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLTargets-relwithdebinfo.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLTargets.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6OpenGL/Qt6OpenGLVersionlessTargets.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsAdditionalTargetInfo.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfig.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfigVersion.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsConfigVersionImpl.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsDependencies.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsTargets-relwithdebinfo.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsTargets.cmake \
+	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6OpenGLWidgets/Qt6OpenGLWidgetsVersionlessTargets.cmake \
 	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6Widgets/Qt6QMacStylePluginAdditionalTargetInfo.cmake \
 	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6Widgets/Qt6QMacStylePluginConfig.cmake \
 	/Users/pncln/Qt/6.7.2/macos/lib/cmake/Qt6Widgets/Qt6QMacStylePluginTargets-relwithdebinfo.cmake \
